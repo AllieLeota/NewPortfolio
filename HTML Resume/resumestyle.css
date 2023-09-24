@@ -1,0 +1,66 @@
+body {
+background-image: url("greysky.jpg");
+background-attachment: fixed;
+background-size: contain
+background-color: #DFDDDD;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#header {
+background-color: #B1F5EA;
+border: 5px outset #39AC99;
+padding: 20px;
+text-align: center;
+margin: auto;
+width: 320px;
+}
+
+.contact-information {
+background-color: #B1F5EA;
+border: 5px outset #39AC99;
+padding: 10px;
+text-align: center;
+margin: auto;
+width: 200px;
+}
+
+.summary {
+background-color: #B1F5EA;
+border: 5px inset #39AC99;
+padding: 10px;
+text-align: center;
+margin: auto;
+width: 500px;
+float: left
+}
+
+#education {
+background-color: #B1F5EA;
+border: 5px inset #39AC99;
+padding: 10px;
+text-align: center;
+margin: auto;
+width: 500px;
+float: right
+}
+
+.bullet-section {
+background-color: #B1F5EA;
+border: 5px inset #39AC99;
+padding: 10px;
+text-align: left;
+margin: auto;
+width: 500px;
+float: center;
+display: block;
+}
+
+.experience {
+background-color: #B1F5EA;
+border: 5px inset #39AC99;
+padding: 20px;
+text-align: left;
+margin: 50px;
+width: auto;
+}
